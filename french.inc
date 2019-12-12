@@ -133,4 +133,6 @@ $strForwardFooter = 'Ce message vous a été transféré par  [FORWARDEDBY].
   pour vous y inscrire allez à :';
 $strForward = 'Faire Suivre';
 $strFwd = 'Tr'; # short version of forward for email subject
+$strContactAdmin = 'Contacter l\'administrateur';
+$strContactMessage     = 'Ajoutez-nous dans vos contacts';
 ?>
